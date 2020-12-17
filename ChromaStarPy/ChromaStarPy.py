@@ -82,8 +82,8 @@ This is the main source file for ChromaStarPy.  We start here.
  
 #from decimal import Decimal as D
 
-# import Input
-import bfsimInput as Input
+import Input
+# import bfsimInput as Input
 
 import Restart
 import Useful

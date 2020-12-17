@@ -32,8 +32,8 @@ logAlphaFe = 0.0   #,   [alpha-elements/Fe]
 
 
 #Spectrum synthesis
-lambdaStart = 588.0  #,       nm    
-lambdaStop = 592.0  #,     nm
+lambdaStart = 589.0  #,       nm
+lambdaStop = 591.0  #,     nm
 
 fileStem = project + "-"\
  + str(round(teff, 7)) + "-" + str(round(logg, 3)) + "-" + str(round(log10ZScale, 3))\
